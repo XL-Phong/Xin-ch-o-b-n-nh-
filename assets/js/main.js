@@ -2,10 +2,10 @@
 const CONFIGDATA = {
     titleHeader: 'Làm người yêu tớ nhé I Love You',
     descriptionHeader: 'Nếu cậu thoát ra và không trả lời thì có nghĩa là cậu đã ĐỒNG Ý rồi đấy ^^',
-    buttonYes: 'Đồng Ý',
+    buttonYes: 'Đồng Ý❤️',
     buttonNo: 'Không! Mơ nhé.',
     titleModar: 'Cảm ơn em vì đồng ý',
-    descriptionModar: 'T biết là m sẽ đồng ý mak ^^ </br> Cám ơn đã đồng ý nha bro :)) </br> Nhma ít đăng bài đin đin lại nha:))',
+    descriptionModar: 'chúng ta đổi biệt hiệu nhé </br> công khai face and hẹn hò nhé </br> Phạm Việt An with love',
 };
 
 
